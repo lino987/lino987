@@ -1,16 +1,14 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 
+meu nome e lino jose
 
-<!--
-**lino987/lino987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+estou estudando na alura
 
-Here are some ideas to get you started:
+aprendendo javascript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+linojosechambi@gmail.com
+
+
+
+
+![](https://tenor.com/es-419/view/the-wok-the-rock-the-rock-sus-the-rock-meme-the-rock-eyebrows-gif-23750956)
+
